@@ -1,0 +1,22 @@
+Written by Chulwoo Pack (chulwoo.pack@gmail.com)
+
+This repo contains document image binarization code (sauvola) in python.
+
+
+1. How to Use
+  (1) To get simple binarization result:
+     python binarization [folder-path containing images]
+  (2) To apply mophological transformation first and get the binarization result:
+     python binarization_morphological [folder-path containing images]
+
+2. References
+
+  
+3. Comments, Bug Reports
+
+   Please send them to the address:
+
+	chulwoo.pack@gmail.com
+
+4. Note
+
